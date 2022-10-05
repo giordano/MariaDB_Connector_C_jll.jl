@@ -1,0 +1,16 @@
+[[MariaDB_Connector_C]]
+arch = "aarch64"
+git-tree-sha1 = "87f13252a56c9d020cf3308420b639f30b41f1cc"
+os = "macos"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "63dbf747156688dc324a01ca51e619279c9e1a61b6f05ae3fd0f3ebe9d4229b1"
+    url = "https://github.com/giordano/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.2+1/MariaDB_Connector_C.v3.3.2.aarch64-apple-darwin.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "e98c32705a0ab41da810e28ee1e1c9bf5b4019cd"
+os = "macos"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "0ae9d03585a0fe2621e54b5c358fa057a5ed26ca4506734ee42ef4e759fd02ad"
+    url = "https://github.com/giordano/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.3.2+1/MariaDB_Connector_C.v3.3.2.x86_64-apple-darwin.tar.gz"
